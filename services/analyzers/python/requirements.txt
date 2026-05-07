@@ -1,0 +1,14 @@
+redis==5.0.1
+sqlalchemy==2.0.23
+psycopg2-binary==2.9.9
+ast-decompiler==1.1.0
+astroid==3.0.1
+pylint==3.0.3
+mypy==1.7.1
+bandit==1.7.5
+safety==2.3.5
+GitPython==3.1.40
+python-dotenv==1.0.0
+networkx==3.2.1
+matplotlib==3.8.2
+plotly==5.17.0
